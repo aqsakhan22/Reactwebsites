@@ -1,0 +1,3 @@
+npm install bootstrap
+npm i react-router --save
+npm i react-router-dom   
